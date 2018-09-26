@@ -1,3 +1,5 @@
+package Task1;
+
 public class OneCourse {
     private double weightStrength;
     private double weightJump;

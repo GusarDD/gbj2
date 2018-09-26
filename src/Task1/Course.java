@@ -1,3 +1,5 @@
+package Task1;
+
 public class Course {
     private int difficulty;
     private OneCourse[] course;

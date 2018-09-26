@@ -1,3 +1,5 @@
+package Task1;
+
 public class Team {
     private String name;
     private TeamMate[] team;
