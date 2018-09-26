@@ -1,3 +1,5 @@
+package Task1;
+
 public class TeamMate {
     private String name;
     private int strength;
