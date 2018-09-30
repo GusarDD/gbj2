@@ -1,8 +1,8 @@
 package Task3;
 
 public class Abonent {
-    private String surename;
-    private Integer phoneNumber;
+   private String surename;
+   private Integer phoneNumber;
 
     Abonent(Integer phoneNumber, String surename) {
         this.surename = surename;
